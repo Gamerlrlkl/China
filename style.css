@@ -1,0 +1,252 @@
+body{
+    font-family: "Exo 2", sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.s1{
+    width: 100%;
+    display: flex;
+}
+
+.textf{
+    color: red;
+}
+.textar{
+    color: rgb(255, 196, 0);
+}
+
+.textad{
+    color: rgb(255, 146, 4);
+}
+
+.textr{
+    color: rgb(255, 209, 4);
+}
+.textfr{
+    color: brown;
+}
+.emblem{
+    width: 100%;
+    margin-left: 50px;
+}
+
+.emblem img{
+    width: 700px;
+    height: 700px;
+}
+
+h1{
+    color: blue;
+}
+.app{
+    color: brown;
+    text-align: center;
+}
+
+.button{
+    color: rgb(223, 233, 226);
+    background-color: rgb(173, 207, 18);
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 5px solid rgb(181, 241, 15) ;
+    border-radius: 20px;
+    padding: 10px 20px; 
+    transition: 0.5s;   
+}
+.button:hover{
+    color: rgb(21, 136, 243);
+    background-color: rgb(186, 243, 28);
+    font-size: 100%;
+}
+
+.s2{
+    width: 100%;
+    display: flex;
+}
+.text{
+    width: 80%;
+    color: brown;
+}
+
+.picture{
+    width: 30%;
+}
+.picture img{
+    width: 100%;
+    height: 400px;
+}
+.menu{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(137, 158, 179);
+}
+.menu ul{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type:none;
+
+}
+nav a{
+    color: aqua;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: 900;
+}
+.menu1{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.menu1:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.menu2{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.menu2:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.menu3{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.menu3:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.menu4{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.menu4:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.contacts{
+    width: 100%;
+    height: 200px;
+    background-color: gray;
+}
+
+.contacts ul{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type:none;
+}
+
+.doc{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.doc:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.doc2{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.doc2:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.doc3{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.doc3:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.doc4{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.doc4:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.doc5{
+    color: aqua;
+    background-color: red;
+    text-transform: none;
+    border: 10px solid red;
+    border-radius: 15px;
+    padding: 3px 1px;
+    transition: .3s;
+}
+
+.doc5:hover{
+    color: red;
+    background-color: yellow;
+}
+
